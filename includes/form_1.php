@@ -22,3 +22,5 @@
 	mail($to,$email_subject,$email_body,$headers); // Post message
 	return true;			
 ?>
+
+<!-- bout de code tiré du HTML page 2 ligne 83 : novalidate success-msg="Your message has been sent." fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!" -->
