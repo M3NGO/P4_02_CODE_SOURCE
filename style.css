@@ -152,6 +152,7 @@ a:hover {
 
 .navbar-brand img {
     height: 40px;
+    width: 214.45px ;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -625,4 +626,13 @@ h1 {
 .prev-lightbox {
     padding: 6px 13px 1px 10px;
     left: 25px;
+}
+img{
+    height: 270px;
+    width: 270px
+
+}
+.image-resize-mode{
+    height: 100px ;
+    width: 100px ;
 }
