@@ -530,10 +530,7 @@ h1 {
         -webkit-box-shadow: none;
         box-shadow: none;
     }
-    .navbar-brand img {
-        max-height: 40px;
-        width: auto;
-    }
+
     .bloc {
         padding-left: 0;
         padding-right: 0;
