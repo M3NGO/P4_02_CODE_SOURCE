@@ -150,7 +150,7 @@ a:hover {
     line-height: 44px;
 }
 
-.navbar-brand img {
+.navbar-brand>img {
     height: 40px;
     width: 214.45px ;
     margin: 0 5px 0 0;
