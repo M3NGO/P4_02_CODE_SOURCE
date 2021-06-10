@@ -318,7 +318,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -394,9 +394,7 @@ h1 {
     background-color: #FFFFFF;
 }
 
-.bgc-dark-slate-blue {
-    background-color: #364577;
-}
+
 
 .bgc-atomic-tangerine {
     background-color: #F3976C;
@@ -407,13 +405,18 @@ h1 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F3976C; 
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #0404c4f2 !important;
+}
+.blue{
+    color: #0404c4f2 !important;
+    font-weight:900;
+  text-shadow: 1px 1px 3px white;
+  -webkit-text-stroke: 0.5px white; 
 }
 
 .ltc-white {
@@ -632,4 +635,9 @@ img{
 .image-resize-mode{
     height: 100px ;
     width: 100px ;
+    -webkit-text-stroke: 4px white; 
+}
+.size{
+    height: 48px;
+    width: 48px;
 }
