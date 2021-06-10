@@ -250,6 +250,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    margin-bottom:15px;
 }
 
 .scrollToTop {
@@ -636,6 +637,9 @@ img{
     height: 100px ;
     width: 100px ;
     -webkit-text-stroke: 4px white; 
+}
+.bigger{
+    font-size: 16px
 }
 /* .size{
     height: 48px;
