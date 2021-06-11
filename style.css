@@ -196,7 +196,7 @@ button {
 }
 
 .form-control {
-    border-color: #0404c4f2;
+    border-color: rgb(0, 0, 0);
     box-shadow: none;
     margin-bottom:15px;
 }
