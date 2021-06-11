@@ -336,8 +336,12 @@ h1 {
 .blue{
     color: #0404c4f2 !important;
     font-weight:900;
-  text-shadow: 1px 1px 3px white;
-  -webkit-text-stroke: 0.5px white; 
+    text-shadow: 1px 1px 3px white;
+    -webkit-text-stroke: 0.5px white;
+} 
+.orange{
+    color: #c27956!important;
+    text-shadow: 1px 1px 3px #0404c4f2 !important;
 }
 
 .ltc-white {
@@ -559,7 +563,7 @@ img{
         position: fixed;
         bottom: 20px;
         right: 20px;
-        z-index: 500;
+        opacity : 0.5;
         transition: all .3s ease-in-out;
         background: #0404c4f2;
     }
