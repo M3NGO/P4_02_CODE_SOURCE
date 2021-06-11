@@ -341,6 +341,7 @@ h1 {
 } 
 .orange{
     color: #c27956!important;
+    font-weight:900;
     text-shadow: 1px 1px 3px #0404c4f2 !important;
 }
 
